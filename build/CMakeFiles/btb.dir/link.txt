@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\btb.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\btb.dir/objects.a @CMakeFiles\btb.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\btb.dir/objects.a -Wl,--no-whole-archive  -o btb.exe -Wl,--out-implib,libbtb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\btb.dir\linklibs.rsp

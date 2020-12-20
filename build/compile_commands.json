@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/napoel92/Desktop/Old_Courses/comSTR/projects/new/hw1/Branch-Predictor---Simulator/build",
+  "command": "C:\\TDM-GCC-64\\bin\\gcc.exe   -g   -o CMakeFiles\\btb.dir\\bp_main.c.obj   -c C:\\Users\\napoel92\\Desktop\\Old_Courses\\comSTR\\projects\\new\\hw1\\Branch-Predictor---Simulator\\bp_main.c",
+  "file": "C:/Users/napoel92/Desktop/Old_Courses/comSTR/projects/new/hw1/Branch-Predictor---Simulator/bp_main.c"
+},
+{
+  "directory": "C:/Users/napoel92/Desktop/Old_Courses/comSTR/projects/new/hw1/Branch-Predictor---Simulator/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe    -g   -o CMakeFiles\\btb.dir\\bp.cpp.obj -c C:\\Users\\napoel92\\Desktop\\Old_Courses\\comSTR\\projects\\new\\hw1\\Branch-Predictor---Simulator\\bp.cpp",
+  "file": "C:/Users/napoel92/Desktop/Old_Courses/comSTR/projects/new/hw1/Branch-Predictor---Simulator/bp.cpp"
+}
+]

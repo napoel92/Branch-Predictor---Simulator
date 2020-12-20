@@ -1,5 +1,5 @@
-/* 046267 Computer Architecture - Winter 20/21 - HW #1 */
-/* API for the predictor simulator                     */
+/* 046267 Computer Architecture - Spring 2020 - HW #1 */
+/* API for the predictor simulator */
 
 #ifndef BP_API_H_
 #define BP_API_H_

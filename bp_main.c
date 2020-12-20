@@ -78,13 +78,13 @@ int main(int argc, char **argv) {
 		fprintf(stderr, "Predictor init failed\n");
 		exit(8);
 	}
-	// FOR DEBUG: int counter=0;
+	int counter=0;
 	while ((fgets(line, 256, trace) != NULL)) {
-		// FOR DEBUG: counter++;
-		// FOR DEBUG: if(counter==16){
-			// FOR DEBUG:printf("Debug starts from this breakPoint...");
-		// FOR DEBUG:	assert(counter==16);
-		// FOR DEBUG:}
+		counter++;
+		if(counter==16){
+			//printf("Debug starts from this breakPoint...");
+			assert(counter==16);
+		}
 		if (line[0] == '\n') {
 			break;
 		}
