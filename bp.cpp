@@ -60,7 +60,7 @@ struct Btb{
 
 
 
-//Static struct with info for all 4 functions of the BTB data stracture
+//Static struct with info for all 4 functions of the BTB data structure
 static struct Btb BTB;
 
 
